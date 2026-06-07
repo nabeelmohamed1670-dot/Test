@@ -2,7 +2,7 @@
 #
 # It largely follows the syntax of an .ini file.
 # See the end of the file for more details and warnings about common mistakes.
-
+android.accept_sdk_license = True
 [app]
 
 # (str) Title of your application
